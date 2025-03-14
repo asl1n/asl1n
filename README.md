@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aslinkarmacharya/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://asl1n.github.io/Portfolio/)
-[![Gmail Badge](https://img.shields.io/badge/-aslinkarmacharya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aslin1799@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aslin1799@gmail.com)
 
 ## About Me
 
@@ -30,17 +30,6 @@ Here are some of the main technologies and tools I’ve been working with recent
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=asl1n&show_icons=true&theme=react)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asl1n&layout=compact&theme=react)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asl1n&theme=react)](https://git.io/streak-stats)
 
-
----
-
-## Connect with Me
-
-- **LinkedIn**: [linkedin.com/in/aslinkarmacharya](https://www.linkedin.com/in/aslinkarmacharya/)  
-- **Portfolio**: [asl1n.github.io/Portfolio/](https://asl1n.github.io/Portfolio/)  
-- **Email**: aslin1799@gmail.com
