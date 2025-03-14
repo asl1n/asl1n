@@ -1,8 +1,8 @@
-# Hi there, Aslin! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hi there, Visitor! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aslinkarmacharya/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://asl1n.github.io/Portfolio/)
-[![Gmail Badge](https://img.shields.io/badge/-aslinkarmacharya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aslinkarmacharya@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-aslinkarmacharya@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aslin1799@gmail.com)
 
 ## About Me
 
@@ -43,4 +43,4 @@ Here are some of the main technologies and tools I’ve been working with recent
 
 - **LinkedIn**: [linkedin.com/in/aslinkarmacharya](https://www.linkedin.com/in/aslinkarmacharya/)  
 - **Portfolio**: [asl1n.github.io/Portfolio/](https://asl1n.github.io/Portfolio/)  
-- **Email**: aslinkarmacharya@gmail.com
+- **Email**: aslin1799@gmail.com
