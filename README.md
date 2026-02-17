@@ -16,7 +16,7 @@ Just a guy who's always eager to learn more!
 
 Here are some of the main technologies and tools I’ve been working with recently:
 
-[![Angular Badge](https://img.shields.io/badge/-Angular%2020-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![Angular Badge](https://img.shields.io/badge/-Angular%2020-DD0031?style=flat&logo=angular&logoColor=white)](#)
 [![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](#)
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)](#)
@@ -28,7 +28,6 @@ Here are some of the main technologies and tools I’ve been working with recent
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-000?style=flat&logo=figma&logoColor=white)](#)
 
----
 
 
 
