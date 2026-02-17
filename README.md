@@ -7,10 +7,11 @@
 ## About Me
 
 Just a guy who's always eager to learn more!  
-- 🔭 I’m currently diving deeper into **React** and **Next.js**.  
-- 🌱 Exploring **UI/UX design** best practices to create visually appealing layouts.  
-- 💬 Ask me about **HTML, CSS, JavaScript, or React**—always happy to help or chat.  
-- 🤝 Open to **collaboration** on interesting projects, especially in front-end development.  
+- 🏆 **Angular Master:** Successfully migrating a project from **Angular 8 to 20** and managing complex financial/inventory logic.
+- 🚀 **React & Next.js:** Still exploring the top of the Iceberg to broaden my capabilities.
+- 🎨 **UI/UX:** Passionate about creating clean, visually appealing, and user-friendly layouts.
+- 💬 **Ask me about:** Anything Angular, legacy migrations, or TypeScript.
+- 🤝 **Open to:** Collaborating on front-end projects and learning more. 
 
 ## Tech Stack
 
