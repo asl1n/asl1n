@@ -30,6 +30,6 @@ Here are some of the main technologies and tools I’ve been working with recent
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asl1n&layout=compact&theme=react)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asl1n&layout=compact&theme=react)
 
 
